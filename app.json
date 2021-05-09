@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "ccd76972-5550-404c-b228-6d221ff43cf4"        
+            "value": "be1e9fd3-7def-4a11-b503-acae99d0b17d"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
